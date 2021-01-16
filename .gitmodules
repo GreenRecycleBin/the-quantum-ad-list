@@ -1,0 +1,3 @@
+[submodule "the-quantum-ad-list"]
+	path = the-quantum-ad-list
+	url = https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list.git
